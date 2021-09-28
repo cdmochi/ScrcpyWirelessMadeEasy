@@ -12,6 +12,6 @@ chmod 700 ./scrcpy-connect.sh
 
 1.Connect wifi to be in same local network (you can also open shared hotspot).  
 2.Connect Devices with usb  
-3.Run with:  
-&nbsp ./scrcpy-connect.sh  
+3.Run with: 
+&nbsp; ./scrcpy-connect.sh  
 4.Start scrcpy  
