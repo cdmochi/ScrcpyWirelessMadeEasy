@@ -14,4 +14,4 @@ chmod 700 ./scrcpy-connect.sh
 2.Connect Devices with usb  
 3.Run with: 
 &nbsp; ./scrcpy-connect.sh  
-4.Start scrcpy  
+4.Start scrcpy without usb
